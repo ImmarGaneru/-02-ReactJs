@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Laporan Praktikum
 
-|  | Pemrograman Berbasis Framework 2024 |
+|  | Pemrograman Berbasis Framework 2025 |
 |--|--|
 | NIM |  2241720169|
 | Nama |  Lalu Immaratul Ardhi Ganeru |
